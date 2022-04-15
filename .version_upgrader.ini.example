@@ -1,0 +1,4 @@
+[version_file]
+file_name=versioning.txt
+line=2
+pattern=\d.\d.\d
